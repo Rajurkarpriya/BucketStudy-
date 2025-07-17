@@ -1,0 +1,46 @@
+🚦 Regulatory Affairs of Road Accident Data 2020 – Internship Project at BucketStudy
+📌 Project Type: Road Safety Data Analysis
+📌 Tools & Technologies: SQL, Excel, PowerPoint
+📌 Dataset: Urban road accident data categorized by city, outcome type, and cause.
+
+📌 Project Overview
+This project focuses on analyzing road accident data across various cities to uncover key safety insights such as:
+
+Cities with the highest count of road incidents.
+
+Distribution of minor injury outcomes where incident count exceeds 15.
+
+Most frequent causes and outcomes of accidents.
+
+City-wise ranking for different cause categories.
+
+Trends and patterns to assist policymakers in reducing accidents.
+
+The analysis was performed using SQL for querying and pattern recognition, Excel for dataset overview, and PowerPoint for structured data storytelling.
+
+🛠 How I Solved Data Challenges
+🔹 Initial Data View & Setup: Imported table, renamed it, and checked column data types.
+🔹 Missing Data Handling: Checked for null values to ensure completeness.
+🔹 SQL-Based Analysis: Used functions like GROUP BY, ORDER BY, and conditional filters to extract insights.
+🔹 Ranking & Filtering: Highlighted cities with more than 15 incidents and categorized outcomes by cause.
+
+📊 Key Analysis Highlights
+✅ Top cities with the highest minor injuries
+✅ Most frequent cause-outcome pairs
+✅ Outcome distribution by city
+✅ Incident counts by cause categories and subcategories
+✅ Cities with both highest and lowest incident rates
+
+💡 Key Learnings & Outcomes
+📌 Strengthened SQL querying and filtering skills
+📌 Improved understanding of urban safety and accident trends
+📌 Learned how to structure and present actionable insights for decision-makers
+
+📂 Project Files
+📁 road_accident_analysis.sql → SQL queries used for the analysis
+📁 accident_data_2020.xlsx → Dataset overview
+📁 presentation.pptx → Final project presentation
+
+🎯 Conclusion
+This project provided a valuable learning experience in using SQL for real-world safety data analysis. It emphasized the importance of data in making informed decisions to improve road safety. Special thanks to Unifies Mentor for the guidance and opportunity!
+
