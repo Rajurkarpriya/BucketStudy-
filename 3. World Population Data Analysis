@@ -1,0 +1,46 @@
+🌍 World Population Analysis – Internship Project at BucketStudy
+📌 Project Type: Demographic Data Analysis
+📌 Tools & Technologies: Microsoft Excel, Power Query
+📌 Dataset: Global population data from 1970 to 2022, including country-wise and continent-wise population and density stats.
+
+📌 Project Overview
+This project examines worldwide population trends over five decades, focusing on:
+
+Year-wise and region-wise population growth.
+
+Population density of world capitals.
+
+Demographic shifts across continents.
+
+Impact of urbanization on population patterns.
+
+Comparative analysis of area vs. density for capitals.
+
+Using Microsoft Excel with Power Query, the project emphasizes data transformation and visualization to uncover key population insights useful for planning and development.
+
+🛠 How I Solved Data Challenges
+🔹 Data Cleaning with Power Query: Changed data types, unpivoted data, and added new columns to organize historical population data.
+🔹 Data Transformation: Structured population data for clear comparison and analysis.
+🔹 Visualization: Used Excel to build dynamic dashboards and charts that highlight key population indicators over time.
+
+📊 Charts & Dashboards Created
+✅ Top Countries by Population
+✅ Yearly Population Trend
+✅ Continent-wise Population Comparison
+✅ Capital Cities by Population Density
+✅ Capital Cities by Area
+✅ Dashboards – Comprehensive summary of visual insights
+
+💡 Key Learnings & Outcomes
+📌 Strengthened Excel and Power Query skills for real-world data analysis
+📌 Gained understanding of population growth patterns and urban density
+📌 Improved data storytelling using visual dashboards
+
+📂 Project Files
+📁 population_analysis.xlsx → Excel workbook with dashboards and charts
+📁 raw_population_data.csv → Original dataset
+📁 README.md → Documentation of project workflow and insights
+
+🎯 Conclusion
+This project enabled a deeper understanding of how global population trends shape economies, societies, and future planning. By analyzing past data visually and systematically, we identified patterns crucial for resource allocation and sustainable development.
+Special thanks to BucketStudy for their guidance and support throughout this project!
